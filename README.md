@@ -1,4 +1,4 @@
-#Unit 4 Gem Game 
+# Gem Game 
 
 [GitHub](https://nevermindthelabel.github.io/gemGame) pages link.
 
